@@ -19,5 +19,3 @@ Features used in this project:
 ## Results
 Actual vs Predicted Yield graph is used to evaluate model performance.
 
-## Author
-Muhammad Saad
